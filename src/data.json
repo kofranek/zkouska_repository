@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Simulace vlivu ferroportinu",
+        "html": "https://egolem.online/ironmetabolism/#iron21.md"
+    },
+    {
+        "id": 2,
+        "title": "Simulace vlivu hepcidinu",
+        "html": "https://egolem.online/ironmetabolism/#iron32.md"
+    },
+    {
+        "id": 3,
+        "title": "Simulace zánětu",
+        "html": "https://egolem.online/ironmetabolism/#iron54.md"
+    },
+    {
+        "id": 4,
+        "title": "Simulace ztrát a příjmu železa ",
+        "html": "https://egolem.online/ironmetabolism/#iron73.md"
+    },
+    {
+        "id": 5,
+        "title": "Komplexní simulace buňky duodena",
+        "html": "https://egolem.online/ironmetabolism/#iron8.md"
+    },
+    {
+        "id": 6,
+        "title": "Simulace skladování železa v játrech",
+        "html": "https://egolem.online/ironmetabolism/#liver/iron2sim.md"
+    },
+    {
+        "id": 7,
+        "title": "Simulace exportu železa v játrech - úlohy",
+        "html": "https://egolem.online/ironmetabolism/#liver/sim2mitochondrie.md"
+    },
+    {
+        "id": 8,
+        "title": "Simulace exportu železa v játrech",
+        "html": "https://egolem.online/ironmetabolism/#liver/sim2mitochondrie2.md"
+    },
+    {
+        "id": 9,
+        "title": "Simulace hepcidinu",
+        "html": "https://egolem.online/ironmetabolism/#liver/hepcidin6sim.md"
+    },
+    {
+        "id": 10,
+        "title": "Simulace metabolismu železa v játrech",
+        "html": "https://egolem.online/ironmetabolism/#liver/fullsim2.md"
+    },
+    {
+        "id": 11,
+        "title": "Simulace RES v makrofágu",
+        "html": "https://egolem.online/ironmetabolism/#spleen/spleensim.md"
+    },
+    {
+        "id": 12,
+        "title": "Simulace metabolismu železa v ostatních buňkách",
+        "html": "https://egolem.online/ironmetabolism/#spleen/othersim.md"
+    },
+    {
+        "id": 13,
+        "title": "Simulace metabolismu železa v organismu",
+        "html": "https://egolem.online/ironmetabolism/#spleen/completsim.md"
+    }
+]
